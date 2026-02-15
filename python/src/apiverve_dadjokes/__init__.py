@@ -1,1 +1,3 @@
-from .apiClient import DadjokesAPIClient
+from .apiClient import DadjokesAPIClient, DadjokesAPIClientError
+
+__all__ = ['DadjokesAPIClient', 'DadjokesAPIClientError']
