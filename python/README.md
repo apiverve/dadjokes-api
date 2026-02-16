@@ -216,8 +216,9 @@ from apiverve_dadjokes.apiClient import DadjokesAPIClient
 
 api = DadjokesAPIClient("[YOUR_API_KEY]")
 
+# This API does not require a Query
+
 try:
-    # This API does not require a Query
     result = api.execute()
     print(result)
 finally:
