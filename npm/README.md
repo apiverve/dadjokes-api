@@ -116,7 +116,7 @@ async function makeRequest() {
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "Want to hear a joke about construction? I'm still working on it."
+    "joke": "What state do crayons go to on vacation? Color-ado."
   }
 }
 ```
