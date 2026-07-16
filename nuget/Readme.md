@@ -51,7 +51,7 @@ Here's a simple example to get you started quickly:
 
 ```csharp
 using System;
-using APIVerve;
+using APIVerve.API.DadJokes;
 
 class Program
 {
@@ -114,7 +114,7 @@ The modern async/await pattern provides the best performance and code readabilit
 ```csharp
 using System;
 using System.Threading.Tasks;
-using APIVerve;
+using APIVerve.API.DadJokes;
 
 public class Example
 {
@@ -144,7 +144,7 @@ If you need to use synchronous code, you can use the `Execute` method:
 
 ```csharp
 using System;
-using APIVerve;
+using APIVerve.API.DadJokes;
 
 public class Example
 {
@@ -179,7 +179,7 @@ The API client provides comprehensive error handling. Here are some examples:
 ```csharp
 using System;
 using System.Threading.Tasks;
-using APIVerve;
+using APIVerve.API.DadJokes;
 
 public class Example
 {
@@ -229,7 +229,7 @@ public class Example
 ```csharp
 using System;
 using System.Threading.Tasks;
-using APIVerve;
+using APIVerve.API.DadJokes;
 
 public class Example
 {
@@ -349,7 +349,7 @@ using (var apiClient = new DadJokesAPIClient("[YOUR_API_KEY]"))
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "Want to hear a joke about construction? I'm still working on it."
+    "joke": "What state do crayons go to on vacation? Color-ado."
   }
 }
 ```
