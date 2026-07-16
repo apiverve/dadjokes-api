@@ -1,0 +1,49 @@
+{
+    "name": "apiverve/dadjokes",
+    "description": "Dad Jokes is a simple tool for getting dad jokes. It returns a random dad joke.",
+    "version": "1.2.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "APIVerve",
+            "email": "hello@apiverve.com",
+            "homepage": "https://apiverve.com"
+        }
+    ],
+    "keywords": [
+        "api",
+        "apiverve",
+        "dadjokes",
+        "dadjokes",
+        "dad jokes",
+        "dad jokes api",
+        "dad jokes tool",
+        "dad jokes software"
+    ],
+    "homepage": "https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=homepage",
+    "support": {
+        "email": "hello@apiverve.com",
+        "docs": "https://docs.apiverve.com/ref/dadjokes",
+        "source": "https://github.com/apiverve/dadjokes-API/tree/main/php"
+    },
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "APIVerve\\Dadjokes\\": "php/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "APIVerve\\Dadjokes\\Tests\\": "php/tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
