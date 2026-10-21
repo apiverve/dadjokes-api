@@ -1,6 +1,6 @@
 # Dad Jokes API - PHP Package
 
-Dad Jokes is a simple tool for getting dad jokes. It returns a random dad joke.
+Dad Jokes delivers a random dad joke with every request. Send a plain GET call without parameters to receive a clean punchline ready for display.
 
 ## Installation
 
@@ -81,11 +81,11 @@ $client = new Client(
 
 ## Documentation
 
-For more information, visit the [API Documentation](https://docs.apiverve.com/ref/dadjokes?utm_source=packagist&utm_medium=readme).
+For more information, visit the [API Documentation](https://docs.apiverve.com/ref/dadjokes?utm_source=packagist&utm_medium=referral&utm_content=readme).
 
 ## Support
 
-- Website: [https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=readme](https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=readme)
+- Website: [https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=referral&utm_content=readme](https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=referral&utm_content=readme)
 - Email: hello@apiverve.com
 
 ## License
