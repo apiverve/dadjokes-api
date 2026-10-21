@@ -1,7 +1,7 @@
 {
     "name": "apiverve/dadjokes",
-    "description": "Dad Jokes is a simple tool for getting dad jokes. It returns a random dad joke.",
-    "version": "1.2.0",
+    "description": "Dad Jokes delivers a random dad joke with every request. Send a plain GET call without parameters to receive a clean punchline ready for display.",
+    "version": "1.2.2",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,13 +15,13 @@
         "api",
         "apiverve",
         "dadjokes",
-        "dadjokes",
-        "dad jokes",
         "dad jokes api",
-        "dad jokes tool",
-        "dad jokes software"
+        "dad joke api",
+        "random joke api",
+        "jokes api",
+        "joke of the day api"
     ],
-    "homepage": "https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=homepage",
+    "homepage": "https://apiverve.com/marketplace/dadjokes?utm_source=php&utm_medium=referral&utm_content=homepage",
     "support": {
         "email": "hello@apiverve.com",
         "docs": "https://docs.apiverve.com/ref/dadjokes",
