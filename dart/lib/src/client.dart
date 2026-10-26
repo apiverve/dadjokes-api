@@ -46,7 +46,7 @@ final _formatPatterns = {
 
 /// Dad Jokes API client.
 ///
-/// For more information, visit: https://apiverve.com/marketplace/dadjokes?utm_source=dart&utm_medium=readme
+/// For more information, visit: https://apiverve.com/marketplace/dadjokes?utm_source=dart&utm_medium=referral&utm_content=readme
 ///
 /// Parameters:
 
