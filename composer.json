@@ -1,7 +1,7 @@
 {
     "name": "apiverve/dadjokes",
     "description": "Dad Jokes delivers a random dad joke with every request. Send a plain GET call without parameters to receive a clean punchline ready for display.",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "type": "library",
     "license": "MIT",
     "authors": [
