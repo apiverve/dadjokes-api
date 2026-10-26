@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/dadjokes",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Dad Jokes delivers a random dad joke with every request. Send a plain GET call without parameters to receive a clean punchline ready for display.",
   "main": "index.js",
   "types": "index.d.ts",
